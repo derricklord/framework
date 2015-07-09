@@ -1,0 +1,12 @@
+body{
+    background-color: #cdcdcd;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.container-fluid{
+    padding: 0;
+}
+
+.panel{
+    margin: 10px;
+}
